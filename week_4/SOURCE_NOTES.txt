@@ -1,4 +1,0 @@
-Week 4 structure prepared from the uploaded Week 4 practice and assignment PDFs.
-Practice source: W4-p.pdf (M1-M5).
-Assignment source: w-4A.pdf (A1-A5).
-The Java files are working reference implementations matching the stated tasks/sample outputs.
