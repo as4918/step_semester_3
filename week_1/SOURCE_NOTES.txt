@@ -1,2 +1,0 @@
-Week 1 solutions are based on the supplied Day 1 Live-Coding Session and Week 1 Assignment PDFs.
-The programs use the suggested method signatures and beginner-level Java constructs specified in those documents.
